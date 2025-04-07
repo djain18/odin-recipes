@@ -1,0 +1,17 @@
+*{
+    background-color: #eea5a5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    margin: 10px;
+    text-align: center;
+}
+.link{
+    display: inline;
+    text-decoration: none;
+    list-style: none;
+}
+.link:hover{
+    color: blue;
+    text-decoration: underline;
+}
